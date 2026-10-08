@@ -7,3 +7,10 @@
 - Need to take a sample of policies (take a sample of 2) and then verify 2 tosdr and usable privacy claims/statements match up with the policies
 - User survey - prioritize!
 - LLM testing and data analysis - 
+
+
+
+
+# References
+Audit Sample and Size
+https://www.hudoig.gov/sites/default/files/documents/audit-guides/appendix.pdf
