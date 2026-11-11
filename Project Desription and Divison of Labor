@@ -108,7 +108,7 @@ Additive{
 
 % Chance that the covered data would be breached given a breach by this company
 	For each breach, record our the number of times our data type was breached in a breach then divide by total breaches since first breach
-	This needs to be calculated breach each data type for each company
+	This needs to be calculated for each data type for each company
 
 times % Chance that the covered data would be used in an identity theft event additive for each data type
 	This only needs to be calculated once and is derived from a report or study
