@@ -105,9 +105,10 @@ times % Average Chance of any user being involved per breach
   users involved in breach / estimated total users at the time
 
 Additive{
-time % Chance that the covered data would be breached given a breach by this company
-	For each breach, record our the number of times our data type was breached then divide by total breaches since first breach and take an average
-	This needs to be calculated breach each data type for each 
+
+% Chance that the covered data would be breached given a breach by this company
+	For each breach, record our the number of times our data type was breached in a breach then divide by total breaches since first breach
+	This needs to be calculated breach each data type for each company
 
 times % Chance that the covered data would be used in an identity theft event additive for each data type
 	This only needs to be calculated once and is derived from a report or study
